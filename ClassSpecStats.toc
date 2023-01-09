@@ -1,8 +1,8 @@
-## Interface: 90105
+## Interface: 100002
 ## Title: ClassSpecStats
 ## Notes: Displays classes and specialisation dependent stat priorities provided by icy-veins.com 
 ## Author: Reglohpri
-## Version: 1.58
+## Version: 1.59
 
 locale.lua
 ClassSpecStats.lua
